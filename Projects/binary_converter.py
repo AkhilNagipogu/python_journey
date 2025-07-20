@@ -1,4 +1,4 @@
-print("Int to Binary Convetor")
+print("Int to Binary Converter")
 print("Ctrl + C to Exit")
 while 1 == 1:
     NUM = int(input("Enter the Number : "))
